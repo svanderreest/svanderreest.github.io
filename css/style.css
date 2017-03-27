@@ -6,13 +6,16 @@
   font-style: normal;
 }
 
-#fh5co-header {
-  background-image: url(images/img_bg_proposal.jpg) !important;
-  background-position: 0px 0px !important;
-}
+
 
 /* =======================================================
 *
+background image Sonya:
+#fh5co-header {
+  background-image: url(images/img_bg_proposal_low_res.jpg) !important;
+  background-position: 0px 0px !important;
+}
+
 * 	Template Style
 * Original pink hex code: #DAA520. Replaced all with #DAA520
 * Original pink countdown roundels rgba(241, 78, 149, 0.8). Replaced with rgba(218, 165, 32, 1)
